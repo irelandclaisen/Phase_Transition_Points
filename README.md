@@ -10,6 +10,8 @@ I used datasets obtained from published literature. The datasets include name, m
 
 ### Featured Techniques:
  * Data Visualization
- * Regression Algorithms (Linear Regression, Decision Tree Regressor, Random Forrest Regressor)
+ * Regression Algorithms (Linear Regression, Decision Tree Regressor, Random Forest Regressor)
  * Ridge and Lasso Regularization
  * Feature Engineering and Extraction
+
+
